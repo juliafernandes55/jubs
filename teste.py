@@ -1,4 +1,4 @@
-import streamlitas st
+import streamlit st
 import pandas as pd 
 
 st.write(""
